@@ -1,0 +1,5 @@
+package room
+
+class ActivityHistoryBinding {
+
+}
